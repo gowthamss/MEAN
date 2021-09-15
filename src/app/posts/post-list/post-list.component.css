@@ -1,0 +1,9 @@
+/* Targets the element itself */
+
+:host {
+    margin-top: 1rem;
+}
+
+.info-text {
+    text-align: center;
+}
